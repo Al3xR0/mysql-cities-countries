@@ -1,2 +1,2 @@
 # mysql-cities-countries
-Mysql dump containing Cities and Countries
+Mysql dump containing 274770 Cities and 249 Countries
